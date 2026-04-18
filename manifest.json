@@ -1,0 +1,11 @@
+{
+  "date": "2026-04-18",
+  "source_artifact_root": "v3.0\\workspace\\output\\minimal",
+  "files": [
+    "v3.0\\workspace\\publish\\output-repo-staging\\README.md",
+    "v3.0\\workspace\\publish\\output-repo-staging\\latest.md",
+    "v3.0\\workspace\\publish\\output-repo-staging\\latest.json",
+    "v3.0\\workspace\\publish\\output-repo-staging\\daily\\2026-04-18\\post.md",
+    "v3.0\\workspace\\publish\\output-repo-staging\\daily\\2026-04-18\\post.json"
+  ]
+}

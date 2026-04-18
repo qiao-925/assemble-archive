@@ -1,0 +1,204 @@
+{
+  "date": "2026-04-18",
+  "generated_at": "2026-04-19T04:58:18.311247+08:00",
+  "record_count": 483,
+  "topic_count": 12,
+  "top_topics": [
+    {
+      "topic": "AI / 人工智能",
+      "count": 195
+    },
+    {
+      "topic": "其他",
+      "count": 89
+    },
+    {
+      "topic": "学术/AI 研究",
+      "count": 82
+    },
+    {
+      "topic": "科技产品",
+      "count": 59
+    },
+    {
+      "topic": "互联网 / 商业",
+      "count": 18
+    }
+  ],
+  "lead_record": {
+    "title": "派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等",
+    "url": "https://sspai.com/post/108742",
+    "canonical_url": "https://sspai.com/post/108742",
+    "summary": "OpenAI 升级 Codex 新增多项实用功能，大疆发布 Osmo Pocket 4 云台相机等。",
+    "source_id": "u-3dcb48ea616f",
+    "source_name": "少数派",
+    "layer": "news",
+    "ingest_method": "news_digest_markdown_import",
+    "topic_tags": [
+      "AI / 人工智能"
+    ],
+    "published_at": null,
+    "captured_at": "2026-04-18T20:58:16.267237+00:00",
+    "external_id": "https://sspai.com/post/108742",
+    "content_hash": "0b5ad1a452fa2b484590b0a01e4ce93b8a051cce67ad3fefe4027ecc63fc6027",
+    "dedupe_key": "https://sspai.com/post/108742",
+    "query": "AI / 人工智能",
+    "topic": "AI / 人工智能",
+    "topic_slug": "ai",
+    "topic_order": 1,
+    "topic_index": 1,
+    "import_index": 1,
+    "cluster_id": "2026-04-18:ai:1",
+    "rank_score": null,
+    "origin_repo": "qiao-925/news-digest",
+    "origin_date": "2026-04-18",
+    "origin_url": "https://raw.githubusercontent.com/qiao-925/news-digest/master/docs/news-digest-2026-04-18.md"
+  },
+  "top_records": [
+    {
+      "title": "派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等",
+      "url": "https://sspai.com/post/108742",
+      "canonical_url": "https://sspai.com/post/108742",
+      "summary": "OpenAI 升级 Codex 新增多项实用功能，大疆发布 Osmo Pocket 4 云台相机等。",
+      "source_id": "u-3dcb48ea616f",
+      "source_name": "少数派",
+      "layer": "news",
+      "ingest_method": "news_digest_markdown_import",
+      "topic_tags": [
+        "AI / 人工智能"
+      ],
+      "published_at": null,
+      "captured_at": "2026-04-18T20:58:16.267237+00:00",
+      "external_id": "https://sspai.com/post/108742",
+      "content_hash": "0b5ad1a452fa2b484590b0a01e4ce93b8a051cce67ad3fefe4027ecc63fc6027",
+      "dedupe_key": "https://sspai.com/post/108742",
+      "query": "AI / 人工智能",
+      "topic": "AI / 人工智能",
+      "topic_slug": "ai",
+      "topic_order": 1,
+      "topic_index": 1,
+      "import_index": 1,
+      "cluster_id": "2026-04-18:ai:1",
+      "rank_score": null,
+      "origin_repo": "qiao-925/news-digest",
+      "origin_date": "2026-04-18",
+      "origin_url": "https://raw.githubusercontent.com/qiao-925/news-digest/master/docs/news-digest-2026-04-18.md"
+    },
+    {
+      "title": "派早报：Keychron 推出轻量化鼠标 G3、微软推出新模型等",
+      "url": "https://sspai.com/post/108692",
+      "canonical_url": "https://sspai.com/post/108692",
+      "summary": "OpenAI 推出网络安全专用模型 GPT-5.4-Cyber、索尼宣布将调整 Bravia 电视的功能等。",
+      "source_id": "u-3dcb48ea616f",
+      "source_name": "少数派",
+      "layer": "news",
+      "ingest_method": "news_digest_markdown_import",
+      "topic_tags": [
+        "AI / 人工智能"
+      ],
+      "published_at": null,
+      "captured_at": "2026-04-18T20:58:16.267237+00:00",
+      "external_id": "https://sspai.com/post/108692",
+      "content_hash": "dcafb15e14be568a4783bdc1293d5a9980b64bb15ad86abd586ab2da3c893ff7",
+      "dedupe_key": "https://sspai.com/post/108692",
+      "query": "AI / 人工智能",
+      "topic": "AI / 人工智能",
+      "topic_slug": "ai",
+      "topic_order": 1,
+      "topic_index": 2,
+      "import_index": 2,
+      "cluster_id": "2026-04-18:ai:2",
+      "rank_score": null,
+      "origin_repo": "qiao-925/news-digest",
+      "origin_date": "2026-04-18",
+      "origin_url": "https://raw.githubusercontent.com/qiao-925/news-digest/master/docs/news-digest-2026-04-18.md"
+    },
+    {
+      "title": "智元机器人，要做AI大模型平台和开放生态",
+      "url": "https://36kr.com/p/3770721219035649?f=rss",
+      "canonical_url": "https://36kr.com/p/3770721219035649?f=rss",
+      "summary": "文｜王毓婵 编辑｜杨轩 当一家机器人公司决定做AI大模型平台和开放生态，它会给行业带来什么？ 上个月，智元刚刚跨过“机器人量产下线一万台”的门槛。4月17日，这家由前华为“天才少年”彭志辉与前华为副总裁邓泰华共同创立的机器人公司在合作伙伴大",
+      "source_id": "36",
+      "source_name": "36氪",
+      "layer": "news",
+      "ingest_method": "news_digest_markdown_import",
+      "topic_tags": [
+        "AI / 人工智能"
+      ],
+      "published_at": null,
+      "captured_at": "2026-04-18T20:58:16.267237+00:00",
+      "external_id": "https://36kr.com/p/3770721219035649?f=rss",
+      "content_hash": "88db097a442ff8af43d594aa0605c7a9aa3aaa2a22cc358c7c1d5ce94af8b2bf",
+      "dedupe_key": "https://36kr.com/p/3770721219035649?f=rss",
+      "query": "AI / 人工智能",
+      "topic": "AI / 人工智能",
+      "topic_slug": "ai",
+      "topic_order": 1,
+      "topic_index": 3,
+      "import_index": 3,
+      "cluster_id": "2026-04-18:ai:3",
+      "rank_score": null,
+      "origin_repo": "qiao-925/news-digest",
+      "origin_date": "2026-04-18",
+      "origin_url": "https://raw.githubusercontent.com/qiao-925/news-digest/master/docs/news-digest-2026-04-18.md"
+    },
+    {
+      "title": "专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体",
+      "url": "https://36kr.com/p/3770819743728131?f=rss",
+      "canonical_url": "https://36kr.com/p/3770819743728131?f=rss",
+      "summary": "文｜邱晓芬 编辑｜苏建勋 2026年，AI正在加速从云端落地到端侧。近期，模型厂商和手机厂商都在背后开始发力—— 3月下旬，国内几大手机厂商几乎同时推送了端侧AI的大规模更新，把原本仅限于旗舰机的AI能力下放到中端和千元机市场。自此，端侧A",
+      "source_id": "36",
+      "source_name": "36氪",
+      "layer": "news",
+      "ingest_method": "news_digest_markdown_import",
+      "topic_tags": [
+        "AI / 人工智能"
+      ],
+      "published_at": null,
+      "captured_at": "2026-04-18T20:58:16.267237+00:00",
+      "external_id": "https://36kr.com/p/3770819743728131?f=rss",
+      "content_hash": "f9163487c114e93e08d1f2717fca3e9e87be64cb772f801e3c7f7706d063a73a",
+      "dedupe_key": "https://36kr.com/p/3770819743728131?f=rss",
+      "query": "AI / 人工智能",
+      "topic": "AI / 人工智能",
+      "topic_slug": "ai",
+      "topic_order": 1,
+      "topic_index": 4,
+      "import_index": 4,
+      "cluster_id": "2026-04-18:ai:4",
+      "rank_score": null,
+      "origin_repo": "qiao-925/news-digest",
+      "origin_date": "2026-04-18",
+      "origin_url": "https://raw.githubusercontent.com/qiao-925/news-digest/master/docs/news-digest-2026-04-18.md"
+    },
+    {
+      "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
+      "url": "https://36kr.com/p/3770787623404293?f=rss",
+      "canonical_url": "https://36kr.com/p/3770787623404293?f=rss",
+      "summary": "文｜王欣逸 编辑｜苏建勋 龙虾热还在继续。 4月16日，荣耀进行了一场史上最短的发布会，正式发布此前预热的“养虾本”——荣耀MagicBook系列轻薄本。 即便OpenClaw已经刷屏了两个多月，但对于普通用户而言，要养一只原装龙虾，并没有",
+      "source_id": "36",
+      "source_name": "36氪",
+      "layer": "news",
+      "ingest_method": "news_digest_markdown_import",
+      "topic_tags": [
+        "AI / 人工智能"
+      ],
+      "published_at": null,
+      "captured_at": "2026-04-18T20:58:16.267237+00:00",
+      "external_id": "https://36kr.com/p/3770787623404293?f=rss",
+      "content_hash": "0262348a5a6ce6734e08ac8a7bf56cb04ec91789c2c4ecab01b1d906ddf171a6",
+      "dedupe_key": "https://36kr.com/p/3770787623404293?f=rss",
+      "query": "AI / 人工智能",
+      "topic": "AI / 人工智能",
+      "topic_slug": "ai",
+      "topic_order": 1,
+      "topic_index": 5,
+      "import_index": 5,
+      "cluster_id": "2026-04-18:ai:5",
+      "rank_score": null,
+      "origin_repo": "qiao-925/news-digest",
+      "origin_date": "2026-04-18",
+      "origin_url": "https://raw.githubusercontent.com/qiao-925/news-digest/master/docs/news-digest-2026-04-18.md"
+    }
+  ]
+}
