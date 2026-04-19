@@ -1,6 +1,6 @@
 # Assemble Daily Brief · 2026-04-18
 
-- Generated at: 2026-04-19T04:58:18.311247+08:00
+- Generated at: 2026-04-20T06:15:53.957543+08:00
 - Input records: 483
 - Topics: 12
 
