@@ -1,0 +1,35 @@
+name: Publish to CNBlogs
+
+on:
+  push:
+    paths:
+      - "daily/**"
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout archive
+        uses: actions/checkout@v4
+
+      - name: Checkout publish scripts
+        uses: actions/checkout@v4
+        with:
+          repository: qiao-925/assemble-publish
+          path: _publish
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install python-dotenv
+
+      - name: Publish to CNBlogs
+        env:
+          CNBLOGS_RPC_URL: ${{ secrets.CNBLOGS_RPC_URL }}
+          CNBLOGS_USERNAME: ${{ secrets.CNBLOGS_USERNAME }}
+          CNBLOGS_TOKEN: ${{ secrets.CNBLOGS_TOKEN }}
+        run: python _publish/src/assemble_publish/sync_to_cnblogs.py
